@@ -1,13 +1,52 @@
 form {
-    background: #efefef;
-    padding: 1.5em;
-    border: 1px solid #ced4da;
-    border-radius: 6px;
+  background: #efefef;
+  padding: 0px;
+  border: 1px solid #ced4da;
+  border-radius: 3px;
+} 
+
+
+.form-group{
+  width: 60%;
+  height: auto;
+  margin: 50px auto;
+  
 }
 
-.form-error {
-    color: var(--error);
-    font-size: 14px;
-    margin-top: 3px;
-    display: none;
+.form-control {
+  width: 60%;
+  margin: 15px auto;
+
 }
+
+label{
+  display: block;
+  padding: 10px;
+  font-size: 15px;
+
+}
+
+input{
+  width: 70%;
+  padding: 10px;
+  border: 1px solid #797979;
+  margin-left: 20px;
+  font-size: 15px;
+  border-radius: 3px;
+}
+
+span{
+  display: block;
+  margin-left: 20px;
+  color: red;
+
+}
+
+.btn-primary{
+ margin-top: 10px;
+ margin-left: 10px;
+}
+
+
+
+
