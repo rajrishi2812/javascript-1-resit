@@ -1,5 +1,3 @@
-
-
 const p = document.querySelectorAll(".paragraph");
 
 let a = []
@@ -9,7 +7,7 @@ p.forEach( p => {
     a.push(p.innerHTML)
 })
 
-console.log(a);
+console.log();
 
 a.reverse()
 

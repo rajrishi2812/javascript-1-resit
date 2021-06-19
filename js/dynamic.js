@@ -2,13 +2,3 @@
  const div = document.querySelector(".dynamic-divs");
  const btn = document.querySelector (".reset")
 
- 
-
- input.addEventListener("click" , handleEvent)
-    
- 
-
-
- function handleEvent() {
-    
- }

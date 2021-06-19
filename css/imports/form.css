@@ -3,30 +3,26 @@ form {
   padding: 0px;
   border: 1px solid #ced4da;
   border-radius: 3px;
-} 
+}
 
-
-.form-group{
+.form-group {
   width: 60%;
   height: auto;
   margin: 50px auto;
-  
 }
 
 .form-control {
   width: 60%;
   margin: 15px auto;
-
 }
 
-label{
+label {
   display: block;
   padding: 10px;
   font-size: 15px;
-
 }
 
-input{
+input {
   width: 70%;
   padding: 10px;
   border: 1px solid #797979;
@@ -35,18 +31,13 @@ input{
   border-radius: 3px;
 }
 
-span{
+span {
   display: block;
   margin-left: 20px;
   color: red;
-
 }
 
-.btn-primary{
- margin-top: 10px;
- margin-left: 10px;
+.btn-primary {
+  margin-top: 10px;
+  margin-left: 10px;
 }
-
-
-
-

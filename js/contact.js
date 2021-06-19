@@ -1,22 +1,4 @@
-/*function seterror(id, error){
-element = document.querySelector(".form-control");
-element.innerHTML = error;
-}
 
-function valdateform(){
-    var returnval = true;
-    var name = document.forms['myForm']["firstname"].value;
-    //console.log(name);
-   // return false
-   
-    if(name.length < 5){
-        seterror("name", "length of name too short");
-        returnval = false;
-    }
-
-    return returnval;
-
-}*/
 const nameElement = document.getElementById("fname");
 const last = document.getElementById("lastname")
 const password = document.getElementById("pass")
